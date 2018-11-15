@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Emergency Calls</string>
+
+    <string-array name="daftar">
+        <item>Hubungi Polisi sekarang !</item>
+        <item>Hubungi Ambulans sekarang !</item>
+        <item>Hubungi Basarnas sekarang !</item>
+        <item>Hubungi Posko Bencana !</item>
+        <item>Hubungi PLN sekarang !</item>
+        <item>Hubungi Pemadam Kebakaran sekarang !</item>
+        <item>Hubungi Nomor darurat telpon seluler dan satelit sekarang !</item>
+        <item>Hubungi Pertolongan pertama Keracunan sekarang !</item>
+        <item>Hubungi Pencegahan bunuh diri sekarang !</item>
+        <item>Hubungi Konseling masalah kejiwaan Direktorat Bina Pelayanan Kesehatan Jiwa Kemenkes RI sekarang !</item>
+    </string-array>
+
+    <string-array name="nomor">
+        <item>110</item>
+        <item>118</item>
+        <item>115</item>
+        <item>129</item>
+        <item>123</item>
+        <item>113</item>
+        <item>112</item>
+        <item>021 4250767</item>
+        <item>0217256526</item>
+        <item>500454</item>
+    </string-array>
+
+</resources>
